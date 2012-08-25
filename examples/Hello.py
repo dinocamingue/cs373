@@ -6,7 +6,9 @@
 
 """
 % python -V
-Python 2.7.2
+Python 2.6.5
+
+
 
 % python Hello.py
 
@@ -18,8 +20,8 @@ print "Nothing to be done."
 
 """
 % python
-Python 2.7.2 (default, Jun 20 2012, 16:23:33)
-[GCC 4.2.1 Compatible Apple Clang 4.0 (tags/Apple/clang-418.0.60)] on darwin
+Python 2.6.5 (r265:79063, Apr 16 2010, 13:57:41)
+[GCC 4.4.3] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import Hello
 Nothing to be done.
@@ -28,8 +30,8 @@ Nothing to be done.
 
 """
 % python
-Python 2.6.1 (r261:67515, Feb 11 2010, 00:51:29)
-[GCC 4.2.1 (Apple Inc. build 5646)] on darwin
+Python 2.6.5 (r265:79063, Apr 16 2010, 13:57:41)
+[GCC 4.4.3] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import this
 The Zen of Python, by Tim Peters

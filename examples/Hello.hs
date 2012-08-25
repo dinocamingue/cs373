@@ -4,7 +4,9 @@
 
 {-
 % ghc -V
-The Glorious Glasgow Haskell Compilation System, version 7.4.1
+The Glorious Glasgow Haskell Compilation System, version 6.12.1
+
+
 
 % ghc -Wall Hello.hs -o Hello.hs.app
 % Hello.hs.app
