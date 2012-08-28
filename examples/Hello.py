@@ -6,9 +6,12 @@
 
 """
 % python -V
+Python 2.7.2
+
+% python -V     # CS machines
 Python 2.6.5
 
-% python3 -V
+% python3 -V     # CS machines
 Python 3.1.2
 
 
