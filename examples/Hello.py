@@ -12,7 +12,7 @@ Python 2.7.2
 Python 2.6.5
 
 % python3 -V     # CS machines
-Python 3.1.2     # http://www.khanacademy.org/science/computer-science/v/python-3-not-backwards-compatible-with-python-2
+Python 3.1.2     # http://docs.python.org/release/3.0.1/whatsnew/3.0.html
 
 
 
