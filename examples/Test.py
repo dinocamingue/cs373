@@ -6,6 +6,8 @@
 
 print "Test.py"
 
-print dir(range)
+s = input("hi\n")
+print type(s)
+print s
 
 print "Done."
