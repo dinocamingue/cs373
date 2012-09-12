@@ -6,4 +6,4 @@
 % jrunscript -f Hello.js
 */
 
-print("Nothing to be done.\n");
+print("Nothing to be done.\n")
